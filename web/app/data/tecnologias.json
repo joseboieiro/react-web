@@ -1,0 +1,86 @@
+[
+  {
+    "title": "HTML",
+    "image": "html.svg",
+    "description": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Linguagem de estilos utilizada para definir a aparência e o layout de páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwindcss.svg",
+    "description": "Framework CSS utility-first que permite criar interfaces modernas rapidamente.",
+    "rating": 5
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação que adiciona interatividade e dinamismo às aplicações web.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Superset de JavaScript que adiciona tipagem estática para maior segurança no código.",
+    "rating": 5
+  },
+  {
+    "title": "JSON",
+    "image": "json.svg",
+    "description": "Formato leve de troca de dados estruturados e de fácil leitura entre sistemas.",
+    "rating": 4
+  },
+  {
+    "title": "API RESTful",
+    "image": "api.svg",
+    "description": "Arquitetura padrão para comunicação entre cliente e servidor através de pedidos HTTP.",
+    "rating": 4
+  },
+  {
+    "title": "Swagger",
+    "image": "swagger.svg",
+    "description": "Ferramenta usada para documentar, testar e visualizar endpoints de APIs REST.",
+    "rating": 3
+  },
+  {
+    "title": "GitHub",
+    "image": "github.svg",
+    "description": "Plataforma de alojamento de código-fonte com controlo de versões baseado em Git.",
+    "rating": 5
+  },
+  {
+    "title": "Codespaces",
+    "image": "codespaces.svg",
+    "description": "Ambiente de desenvolvimento na nuvem integrado diretamente no GitHub.",
+    "rating": 4
+  },
+  {
+    "title": "GitHub Pages",
+    "image": "github-pages.svg",
+    "description": "Serviço de alojamento gratuito para publicar sites estáticos a partir de repositórios.",
+    "rating": 4
+  },
+  {
+    "title": "React.js",
+    "image": "react.svg",
+    "description": "Biblioteca JavaScript para construir interfaces de utilizador baseadas em componentes.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework React para aplicações web modernas com renderização no servidor e rotas.",
+    "rating": 5
+  },
+  {
+    "title": "Vercel",
+    "image": "vercel.svg",
+    "description": "Plataforma na nuvem otimizada para fazer deploy contínuo de aplicações Next.js.",
+    "rating": 5
+  }
+]
